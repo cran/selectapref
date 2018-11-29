@@ -37,7 +37,7 @@ ivlev <- function(available, consumed, jacob = FALSE) {
   p <- available/sum(available)
 
   if(jacob == TRUE) {
-    return (r-p)/(r+p-(2*r*p))
+    return ((r-p)/(r+p-(2*r*p)))
   } else {
     return ((r-p)/(r+p))
   }

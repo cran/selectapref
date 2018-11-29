@@ -1,7 +1,7 @@
-dc34d8752b9c57731bf89a5cbe682b13 *DESCRIPTION
-fa08260bdce6b103c3c3b14b07b23d34 *NAMESPACE
+c02870cff4ca68d2ee5058f6bd038a87 *DESCRIPTION
+cc8c6dc800eab493333415f2f45dfc6c *NAMESPACE
 ab2ea16824fff09a2f1be344c6adce81 *R/manlysa.R
-a88a3f831f33774defaea1ea49e8abb9 *R/selectivity.R
-570e27bccb1b2e479581dce5d1a1ed8a *man/FR.Rd
-d5f8fbf57baf49b82382c09dd34aca0d *man/ivlev.Rd
-c34405058f84f6af6f5fa5b620ef5e2a *man/manlysalpha.Rd
+dd0559828c00d86e8ded0ba2c8d1d4df *R/selectivity.R
+998a7f400414b1d1d8bea309bc4bf939 *man/FR.Rd
+19a62eb2a4b7fa0c9abd9c518d205d4a *man/ivlev.Rd
+59b1a00895ec0a84361a95cf34c42a01 *man/manlysalpha.Rd
