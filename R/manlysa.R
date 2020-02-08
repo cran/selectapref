@@ -1,5 +1,5 @@
-#' Manly's alpha feeding preference (Chesson 1968).
-#' Returns Manly'as alpha index from vectors of initial and final food item counts.
+#' Manly's alpha feeding preference (Chesson 1978).
+#' Returns Manly's alpha index from vectors of initial and final food item counts.
 #' @param initial A vector of initial food items counts available to the organism in the environment
 #' @param consumed A vector of food items consumed by the organism
 #' @param stand Converts values with highest standardized to "1"? Defaults to FALSE.

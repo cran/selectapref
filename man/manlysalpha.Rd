@@ -2,7 +2,7 @@
 % Please edit documentation in R/manlysa.R
 \name{manlysalpha}
 \alias{manlysalpha}
-\title{Manly's alpha feeding preference (Chesson 1968).
+\title{Manly's alpha feeding preference (Chesson 1978).
 Returns Manly'as alpha index from vectors of initial and final food item counts.}
 \usage{
 manlysalpha(initial, consumed, stand = FALSE, perc = FALSE,
@@ -20,8 +20,8 @@ manlysalpha(initial, consumed, stand = FALSE, perc = FALSE,
 \item{deplete}{For use in experiments where food sources deplete? Defaults to TRUE.}
 }
 \description{
-Manly's alpha feeding preference (Chesson 1968).
-Returns Manly'as alpha index from vectors of initial and final food item counts.
+Manly's alpha feeding preference (Chesson 1978).
+Returns Manly's alpha index from vectors of initial and final food item counts.
 }
 \examples{
 initial_prey_count <- c(10,10,10,10,10,10)
